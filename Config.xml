@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.androidbench.app" version="1.0.0" xmlns="http://w3.org">
+    <name>Androidbench</name>
+    <description>Mobile version of Blockbench</description>
+    <author>Retromobs</author>
+    <content src="index.html" />
+    <preference name="Orientation" value="landscape" />
+</widget>
+
